@@ -1,0 +1,7 @@
+{
+  "name": "dhar-nea-choli",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
